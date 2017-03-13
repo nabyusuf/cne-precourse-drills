@@ -1,0 +1,82 @@
+{
+  "java.runtime.name": "Java(TM) SE Runtime Environment",
+  "sun.boot.library.path": "C:\\Program Files\\Java\\jre1.8.0_121\\bin",
+  "java.vm.version": "25.121-b13",
+  "java.vm.vendor": "Oracle Corporation",
+  "java.vendor.url": "http://java.oracle.com/",
+  "path.separator": ";",
+  "java.vm.name": "Java HotSpot(TM) 64-Bit Server VM",
+  "file.encoding.pkg": "sun.io",
+  "user.script": "",
+  "user.country": "US",
+  "sun.java.launcher": "SUN_STANDARD",
+  "sun.os.patch.level": "Service Pack 1",
+  "java.vm.specification.name": "Java Virtual Machine Specification",
+  "user.dir": "E:\\CNE\\cne-precourse-drills",
+  "java.runtime.version": "1.8.0_121-b13",
+  "java.awt.graphicsenv": "sun.awt.Win32GraphicsEnvironment",
+  "java.endorsed.dirs": "C:\\Program Files\\Java\\jre1.8.0_121\\lib\\endorsed",
+  "os.arch": "amd64",
+  "java.io.tmpdir": "C:\\Users\\NABIHA~1.YUS\\AppData\\Local\\Temp\\",
+  "line.separator": "\r\n",
+  "java.vm.specification.vendor": "Oracle Corporation",
+  "user.variant": "",
+  "os.name": "Windows 7",
+  "sun.jnu.encoding": "Cp1252",
+  "java.library.path": "C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\Sun\\Java\\bin;C:\\Windows\\system32;C:\\Windows
+;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\PuTTY;C:\\Users\\NABIHAMAKARIM.YUSUF\\AppData\\Local\\Progr
+ams\\Git\\bin;C:\\Oracle11g\\client\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\PROGRA~1\\CONDUS~1
+\\DISKEE~1\\;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Microsoft SQL Server\\100\\DTS\\Binn\\;C:\\P
+rogram Files (x86)\\Microsoft SQL Server\\100\\Tools\\Binn\\VSShell\\Common7\\IDE\\;C:\\Program Files (x86)\\Microsoft SQL Se
+rver\\100\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\100\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL S
+erver\\100\\DTS\\Binn\\;C:\\Program Files (x86)\\Microsoft Visual Studio 9.0\\Common7\\IDE\\PrivateAssemblies\\;C:\\Program F
+iles (x86)\\QuickTime\\QTSystem\\;C:\\Program Files\\TortoiseSVN\\bin;C:\\Program Files (x86)\\Micro Focus\\RUMBA\\;C:\\Progr
+am Files (x86)\\Micro Focus\\RUMBA\\System;C:\\Program Files\\EmEditor;E:\\Gradle2.12\\gradle-2.12\\bin;C:\\Program Files\\Ja
+va\\jdk1.8.0_60\\bin;C:\\Program Files\\nodejs\\;C:\\Program Files\\nodejs\\node_modules\\npm\\bin;C:\\Program Files (x86)\\B
+rackets\\command;C:\\Program Files (x86)\\MySQL\\MySQL Fabric 1.5 \u0026 MySQL Utilities 1.5\\;C:\\Program Files (x86)\\MySQL
+\\MySQL Fabric 1.5 \u0026 MySQL Utilities 1.5\\Doctrine extensions for PHP\\;E:\\Maven\\apache-maven-3.3.3\\bin;C:\\Windows\\
+System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;E:\\git\\bin\\;C:\\Program Files (x86)\\
+Sennheiser\\SoftphoneSDK\\;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Oracle11g\\client\\bin;C:\\Windows\\system32;
+C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\PROGRA~1\\CONDUS~1\\DISKEE~1\\;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C
+:\\Program Files\\Microsoft SQL Server\\100\\DTS\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\100\\Tools\\Binn\\VSS
+hell\\Common7\\IDE\\;C:\\Program Files (x86)\\Microsoft SQL Server\\100\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Serve
+r\\100\\Tools\\Binn\\;C:\\Program Files (x86)\\Microsoft SQL Server\\100\\DTS\\Binn\\;C:\\Program Files (x86)\\Microsoft Visu
+al Studio 9.0\\Common7\\IDE\\PrivateAssemblies\\;C:\\Program Files (x86)\\QuickTime\\QTSystem\\;C:\\Program Files\\TortoiseSV
+N\\bin;C:\\Program Files (x86)\\Micro Focus\\RUMBA\\;C:\\Program Files (x86)\\Micro Focus\\RUMBA\\System;C:\\Program Files\\E
+mEditor;E:\\Gradle 2.4\\gradle-2.4\\bin;E:\\Maven\\apache-maven-3.3.3\\bin;C:\\Users\\NABIHAMAKARIM.YUSUF\\AppData\\Roaming\\
+npm;C:\\Users\\NABIHAMAKARIM.YUSUF\\AppData\\Roaming\\Cloud Foundry;.",
+  "java.specification.name": "Java Platform API Specification",
+  "java.class.version": "52.0",
+  "sun.management.compiler": "HotSpot 64-Bit Tiered Compilers",
+  "os.version": "6.1",
+  "user.home": "C:\\Users\\NABIHAMAKARIM.YUSUF",
+  "user.timezone": "",
+  "java.awt.printerjob": "sun.awt.windows.WPrinterJob",
+  "file.encoding": "Cp1252",
+  "java.specification.version": "1.8",
+  "user.name": "NABIHAMAKARIM.YUSUF",
+  "java.class.path": "build/libs/cne-precourse-drills.jar",
+  "java.vm.specification.version": "1.8",
+  "sun.arch.data.model": "64",
+  "java.home": "C:\\Program Files\\Java\\jre1.8.0_121",
+  "sun.java.command": "build/libs/cne-precourse-drills.jar",
+  "java.specification.vendor": "Oracle Corporation",
+  "user.language": "en",
+  "awt.toolkit": "sun.awt.windows.WToolkit",
+  "java.vm.info": "mixed mode",
+  "java.version": "1.8.0_121",
+  "java.ext.dirs": "C:\\Program Files\\Java\\jre1.8.0_121\\lib\\ext;C:\\Windows\\Sun\\Java\\lib\\ext",
+  "sun.boot.class.path": "C:\\Program Files\\Java\\jre1.8.0_121\\lib\\resources.jar;C:\\Program Files\\Java\\jre1.8.0_121\\li
+b\\rt.jar;C:\\Program Files\\Java\\jre1.8.0_121\\lib\\sunrsasign.jar;C:\\Program Files\\Java\\jre1.8.0_121\\lib\\jsse.jar;C:\
+\Program Files\\Java\\jre1.8.0_121\\lib\\jce.jar;C:\\Program Files\\Java\\jre1.8.0_121\\lib\\charsets.jar;C:\\Program Files\\
+Java\\jre1.8.0_121\\lib\\jfr.jar;C:\\Program Files\\Java\\jre1.8.0_121\\classes",
+  "sun.stderr.encoding": "cp437",
+  "java.vendor": "Oracle Corporation",
+  "file.separator": "\\",
+  "java.vendor.url.bug": "http://bugreport.sun.com/bugreport/",
+  "sun.cpu.endian": "little",
+  "sun.io.unicode.encoding": "UnicodeLittle",
+  "sun.stdout.encoding": "cp437",
+  "sun.desktop": "windows",
+  "sun.cpu.isalist": "amd64"
+}
